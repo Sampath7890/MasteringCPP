@@ -1,2 +1,2 @@
 # variables-demo.cpp
-learning cpp
+today i learnt data types in cpp
