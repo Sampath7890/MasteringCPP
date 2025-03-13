@@ -1,0 +1,19 @@
+#include<iostream>
+using namespace std;
+int main(){
+    string name;
+    cout<<"Enter a name you want to print: ";
+    cin>>name;
+
+    int n;
+    cout<<"Enter the number of times you want to print the name: ";
+    cin>>n;
+
+    int i=0;
+
+    while(i<n){
+        cout<<name<<endl;
+        i++;
+    }
+    return 0;
+}
